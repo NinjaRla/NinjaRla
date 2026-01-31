@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**NinjaRla/NinjaRla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Min, and I'm currently an OSU student interested in learning more about the coding ecosystem! 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
